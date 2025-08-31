@@ -1,10 +1,10 @@
 {
-  "enableLogin": false,
+  "enableLogin": true,
   "loginIcon": "GHOST BOT",
   "loginTitle": "Version : v13",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://discord.gg/ean4jGYajM",
+  "invalidKeyRedirect": "https://youtu.be/jYLK9-db8LI?si=_RSEaYrf6psXV-dn",
   "validKeys": [
     "hossame"
   ],
