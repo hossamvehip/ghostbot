@@ -14,8 +14,8 @@
   "btnColor": "#FF416C",
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
-  "autoRedirect": false,
-  "redirectUrl": "https://youtu.be/QRgDSdS3p_w?feature=shared",
+  "autoRedirect": true,
+  "redirectUrl": "https://discord.gg/mbPspkn2xH",
   "socialButtons": [
     {
       "type": "discord",
