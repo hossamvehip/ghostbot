@@ -1,1 +1,40 @@
-
+{
+  "enableLogin": true,
+  "loginIcon": "GHOST BOT",
+  "loginTitle": "Version : v14",
+  "loginHint": "Enter your premium key",
+  "loginButtonText": "login !!",
+  "invalidKeyRedirect": "https://youtu.be/jYLK9-db8LI?si=_RSEaYrf6psXV-dn",
+  "validKeys": [
+    "hossame"
+  ],
+  "appIcon": "V13",
+  "bgColor": "#121212",
+  "accentColor": "#4FC3F7",
+  "btnColor": "#FF416C",
+  "btnTextColor": "#FFFFFF",
+  "continueText": "CONTINUE",
+  "autoRedirect": false,
+  "redirectUrl": "https://discord.gg/mbPspkn2xH",
+  "socialButtons": [
+    {
+      "type": "discord",
+      "url": "https://discord.gg/ean4jGYajM"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh"
+    }
+  ],
+  "versionInfo": {
+    "latestVersion": "14.0.0",
+    "title": "Update Available",
+    "message": "All peoples using new updated version now. Problem of (Network Error) and sudden app closing is fixed. Please update for smooth using.",
+    "downloadUrl": "https://www.mediafire.com/file/puot2qk09eofh75/Ghost+bot+v12+fix_signed.apk/file",
+    "forceUpdate": false,
+    "showDiscordButton": true,
+    "downloadButtonText": "Download Now",
+    "discordButtonText": "Get Support",
+    "laterButtonText": "Remind Me Later"
+  }
+}
