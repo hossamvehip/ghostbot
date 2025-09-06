@@ -1,5 +1,5 @@
 {
-  "enableLogin": true,
+  "enableLogin": false,
   "loginIcon": "GHOST BOT",
   "loginTitle": "Version : v14",
   "loginHint": "Enter your premium key",
@@ -14,8 +14,8 @@
   "btnColor": "#FF416C",
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
-  "autoRedirect": false,
-  "redirectUrl": "https://discord.gg/mbPspkn2xH",
+  "autoRedirect": true,
+  "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "socialButtons": [
     {
       "type": "discord",
@@ -28,12 +28,12 @@
   ],
   "versionInfo": {
     "latestVersion": "14.0.0",
-    "title": "Update Available",
-    "message": "All peoples using new updated version now. Problem of (Network Error) and sudden app closing is fixed. Please update for smooth using.",
-    "downloadUrl": "https://www.mediafire.com/file/puot2qk09eofh75/Ghost+bot+v12+fix_signed.apk/file",
+    "title": "تحت صيانة | Under maintenance ",
+    "message": "تحت صيانة بوت مغلق .",
+    "downloadUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
     "forceUpdate": false,
     "showDiscordButton": true,
-    "downloadButtonText": "Download Now",
+    "downloadButtonText": "ok",
     "discordButtonText": "Get Support",
     "laterButtonText": "Remind Me Later"
   }
