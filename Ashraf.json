@@ -1,5 +1,5 @@
 {
-  "enableLogin": true,
+  "enableLogin": false,
   "loginIcon": "THE LEADER BOT v1",
   "loginTitle": "Version : v1",
   "loginHint": "Enter your premium key",
