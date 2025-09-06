@@ -1,17 +1,17 @@
 {
   "enableLogin": false,
-  "loginIcon": "GHOST BOT",
-  "loginTitle": "Version : v13",
+  "loginIcon": "THE LEADER BOT v1",
+  "loginTitle": "Version : v1",
   "loginHint": "Enter your premium key",
-  "loginButtonText": "login !!",
+  "loginButtonText": "Login",
   "invalidKeyRedirect": "https://youtu.be/jYLK9-db8LI?si=_RSEaYrf6psXV-dn",
   "validKeys": [
-    "ghost"
+    "leader"
   ],
-  "appIcon": "V13",
-  "bgColor": "#121212",
-  "accentColor": "#4FC3F7",
-  "btnColor": "#FF416C",
+  "appIcon": "V1",
+  "bgColor": "#0D1B2A",
+  "accentColor": "#1B9AAA",
+  "btnColor": "#FF6F61",
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": false,
@@ -27,10 +27,10 @@
     }
   ],
   "versionInfo": {
-    "latestVersion": "12.0.0",
+    "latestVersion": "1.0.0",
     "title": "Update Available",
-    "message": "All peoples using new updated version now. Problem of (Network Error) and sudden app closing is fixed. Please update for smooth using.",
-    "downloadUrl": "https://www.mediafire.com/file/puot2qk09eofh75/Ghost+bot+v12+fix_signed.apk/file",
+    "message": "Welcome to THE LEADER BOT v1 🎉. Enjoy the new version with improved performance and bug fixes.",
+    "downloadUrl": "https://www.mediafire.com/file/puot2qk09eofh75/Leader+bot+v1_signed.apk/file",
     "forceUpdate": false,
     "showDiscordButton": true,
     "downloadButtonText": "Download Now",
