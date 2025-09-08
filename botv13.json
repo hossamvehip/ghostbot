@@ -1,10 +1,10 @@
 {
-  "enableLogin": false,
+  "enableLogin": true,
   "loginIcon": "GHOST BOT",
   "loginTitle": "Version : v13",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://youtu.be/jYLK9-db8LI?si=_RSEaYrf6psXV-dn",
+  "invalidKeyRedirect": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "validKeys": [
     "ghost"
   ],
@@ -15,11 +15,11 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": true,
-  "redirectUrl": "https://youtu.be/vWIr0q9MPyU?feature=shared",
+  "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "socialButtons": [
     {
       "type": "discord",
-      "url": "https://discord.gg/ean4jGYajM"
+      "url": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh"
     },
     {
       "type": "instagram",
