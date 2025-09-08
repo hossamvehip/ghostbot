@@ -4,7 +4,7 @@
   "loginTitle": "Version : v14",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://www.instagram.com/p/DOWeuQZiH21/?igsh=MWFuaDBnMW8zMzhvZQ==",
+  "invalidKeyRedirect": "https://www.instagram.com/p/DOWeuQZiH21V7PY12gKA7EhELb3dWjUZeYOeco0/?igsh=MWFuaDBnMW8zMzhvZQ==",
   "validKeys": [
     "admin",
     "ami"
@@ -16,7 +16,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": false,
-  "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
+  "redirectUrl": "https://www.instagram.com/p/DOWeuQZiH21V7PY12gKA7EhELb3dWjUZeYOeco0/?igsh=MWFuaDBnMW8zMzhvZQ==",
   "socialButtons": [
     {
       "type": "discord",
