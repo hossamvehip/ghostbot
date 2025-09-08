@@ -1,12 +1,12 @@
 {
-  "enableLogin": false,
+  "enableLogin": true,
   "loginIcon": "THE LEADER BOT v1",
   "loginTitle": "Version : v1",
   "loginHint": "Enter your premium key",
   "loginButtonText": "Login",
-  "invalidKeyRedirect": "https://youtu.be/jYLK9-db8LI?si=_RSEaYrf6psXV-dn",
+  "invalidKeyRedirect": "https://youtu.be/EqK8Jy7MUDg?feature=shared",
   "validKeys": [
-    "leader"
+    "achraf"
   ],
   "appIcon": "V1",
   "bgColor": "#0D1B2A",
