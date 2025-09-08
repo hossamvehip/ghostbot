@@ -4,10 +4,10 @@
   "loginTitle": "Version : v14",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://youtu.be/vWIr0q9MPyU?feature=shared",
+  "invalidKeyRedirect": "https://www.instagram.com/p/DOWeuQZiH21/?igsh=MWFuaDBnMW8zMzhvZQ==",
   "validKeys": [
-    "hossame",
-    "hossam"
+    "admin",
+    "admin"
   ],
   "appIcon": "V14",
   "bgColor": "#121212",
