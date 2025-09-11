@@ -1,13 +1,12 @@
 {
-  "enableLogin": false,
+  "enableLogin": true,
   "loginIcon": "GHOST BOT",
   "loginTitle": "protection vip",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
   "invalidKeyRedirect": "https://youtu.be/KgKbvE7RAPQ?feature=shared",
   "validKeys": [
-    "nikomk",
-    ""
+    "nikomk"
   ],
   "appIcon": "protection vip",
   "bgColor": "#121212",
@@ -28,7 +27,7 @@
     }
   ],
   "versionInfo": {
-    "latestVersion": "15.0.0",
+    "latestVersion": "14.0.2",
     "title": "إصدار جديد متوفر | New Update Available",
     "message": "⚠️ تنبيه: يجب على الجميع تحميل الإصدار الجديد إلزاميًا، حيث سيتم إيقاف النسخ الحالية قريبًا.\n⚠️ Notice: Everyone must download the new version, as the current versions will soon be deactivated.",
     "downloadUrl": "https://www.mediafire.com/file/3f53e7ackn3zub8/GHOSTBOTv14_fix.apk/file",
