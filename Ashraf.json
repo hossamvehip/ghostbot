@@ -4,9 +4,9 @@
   "loginTitle": "Version : v1",
   "loginHint": "Enter your premium key",
   "loginButtonText": "Login",
-  "invalidKeyRedirect": "https://youtu.be/oJNcYw8H0Xk?feature=shared",
+  "invalidKeyRedirect": "https://discord.gg/mbPspkn2xH",
   "validKeys": [
-    "freev1"
+    ""
   ],
   "appIcon": "V1",
   "bgColor": "#0D1B2A",
