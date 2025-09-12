@@ -1,1 +1,40 @@
-
+{
+  "enableLogin": false,
+  "loginIcon": "THE LEADER BOT v2",
+  "loginTitle": "Version : v2",
+  "loginHint": "Enter your premium key",
+  "loginButtonText": "Login",
+  "invalidKeyRedirect": "https://discord.gg/mbPspkn2xH",
+  "validKeys": [
+    "free"
+  ],
+  "appIcon": "V2",
+  "bgColor": "#0D1B2A",
+  "accentColor": "#1B9AAA",
+  "btnColor": "#FF6F61",
+  "btnTextColor": "#FFFFFF",
+  "continueText": "CONTINUE",
+  "autoRedirect": false,
+  "redirectUrl": "https://discord.gg/mbPspkn2xH",
+  "socialButtons": [
+    {
+      "type": "discord",
+      "url": "https://discord.gg/ean4jGYajM"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh"
+    }
+  ],
+  "versionInfo": {
+    "latestVersion": "2.0.0",
+    "title": "Update Available",
+    "message": "Welcome to THE LEADER BOT v1 🎉. Enjoy the new version with improved performance and bug fixes.",
+    "downloadUrl": "https://www.mediafire.com/file/puot2qk09eofh75/Leader+bot+v1_signed.apk/file",
+    "forceUpdate": false,
+    "showDiscordButton": true,
+    "downloadButtonText": "Download Now",
+    "discordButtonText": "Get Support",
+    "laterButtonText": "Remind Me Later"
+  }
+}
