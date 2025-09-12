@@ -4,7 +4,7 @@
   "loginTitle": "Version : v14",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://linkjust.com/pqIbcCwP",
+  "invalidKeyRedirect": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "validKeys": [
     "",
     ""
@@ -28,10 +28,10 @@
     }
   ],
   "versionInfo": {
-    "latestVersion": "15.0.0",
-    "title": "إصدار جديد متوفر | New Update Available",
-    "message": "⚠️ تنبيه: يجب على الجميع تحميل الإصدار الجديد إلزاميًا، حيث سيتم إيقاف النسخ الحالية قريبًا.\n⚠️ Notice: Everyone must download the new version, as the current versions will soon be deactivated.",
-    "downloadUrl": "https://www.mediafire.com/file/3f53e7ackn3zub8/GHOSTBOTv14_fix.apk/file",
+    "latestVersion": "16.0.0",
+    "title": "📢 إعلان رسمي | Official Announcement 🚀",
+    "message": "🔧 البوت حالياً تحت الصيانة\nتابعوني على حسابي الرسمي في إنستغرام لمزيد من التحديثات 👇\n👉 Instagram: ghost.auth\n\n🔧 The bot is currently under maintenance\nFollow me on my official Instagram for updates 👇\n👉 Instagram: ghost.auth",
+    "downloadUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
     "forceUpdate": true,
     "showDiscordButton": true,
     "downloadButtonText": "Download Update / تحميل!",
