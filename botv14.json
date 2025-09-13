@@ -1,5 +1,5 @@
 {
-  "enableLogin": true,
+  "enableLogin": false,
   "loginIcon": "GHOST BOT",
   "loginTitle": "Version : v14",
   "loginHint": "Enter your premium key",
