@@ -1,5 +1,5 @@
 {
-  "enableLogin": true,
+  "enableLogin": false,
   "loginIcon": "THE LEADER BOT v1",
   "loginTitle": "Version : v1",
   "loginHint": "Enter your premium key",
@@ -15,7 +15,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": false,
-  "redirectUrl": "https://discord.gg/mbPspkn2xH",
+  "redirectUrl": "https://discord.gg/aqXWBJhUwu",
   "socialButtons": [
     {
       "type": "discord",
