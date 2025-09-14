@@ -1,12 +1,12 @@
 {
-  "enableLogin": false,
+  "enableLogin": true,
   "loginIcon": "GHOST BOT( UNDER MAINTENANCE/تحت صيانة بوت مغلق)",
   "loginTitle": "Version : v14",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
   "invalidKeyRedirect": "https://www.instagram.com/stories/ghost.auth/3721673253124108838?utm_source=ig_story_item_share&igsh=MTI5b2RvOHNpanBoMA==",
   "validKeys": [
-    "free",
+    "",
     ""
   ],
   "appIcon": "V14",
@@ -15,7 +15,7 @@
   "btnColor": "#FF416C",
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
-  "autoRedirect": false,
+  "autoRedirect": true,
   "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "socialButtons": [
     {
