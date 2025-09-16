@@ -14,7 +14,7 @@
   "btnColor": "#FF6F61",
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
-  "autoRedirect": true,
+  "autoRedirect": false,
   "redirectUrl": "https://www.instagram.com/p/DOmCZ1kCL4Q/?igsh=MTc4OWtha2EyN2xxeQ==",
   "socialButtons": [
     {
