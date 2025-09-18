@@ -1,12 +1,12 @@
 {
-  "enableLogin": false,
+  "enableLogin": true,
   "loginIcon": "GHOST BOT x",
   "loginTitle": "Version : 14.0.2",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://www.instagram.com/stories/ghost.auth/3721673253124108838?utm_source=ig_story_item_share&igsh=MTI5b2RvOHNpanBoMA==",
+  "invalidKeyRedirect": "https://www.instagram.com/stories/ghost.auth/3724305818104385050?utm_source=ig_story_item_share&igsh=MXRtYXEwdms5dWk2eQ==",
   "validKeys": [
-    "free",
+    "HOSSAME",
     ""
   ],
   "appIcon": "V14",
