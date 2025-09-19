@@ -1,0 +1,33 @@
+{
+  "appIcon": "👻",
+  "bgColor": "#000000",
+  "accentColor": "#4FC3F7",
+  "btnColor": "#667eea",
+  "btnTextColor": "#FFFFFF",
+  "continueText": "START",
+  "autoRedirect": false,
+  "redirectUrl": "",
+  
+  "versionInfo": {
+    "latestVersion": "1.0.0",
+    "title": "Update Available",
+    "message": "New version of GhostBot is available. Please update for the latest features and security improvements.",
+    "downloadButtonText": "Download Now",
+    "discordButtonText": "Join Discord",
+    "showDiscordButton": true,
+    "downloadUrl": "https://github.com/ghostbot/app/releases/latest"
+  },
+  
+  "socialButtons": [
+    {
+      "type": "discord",
+      "url": "https://discord.gg/ean4jGYajM",
+      "text": "Discord Server"
+    },
+    {
+      "type": "telegram",
+      "url": "https://t.me/ghostbotchannel",
+      "text": "Telegram Channel"
+    }
+  ]
+}
