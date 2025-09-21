@@ -4,7 +4,7 @@
   "loginTitle": "Version : 14.0.2",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://www.instagram.com/reel/DOyTF-MiB-m/?igsh=MWdpanQ0bXA2cnFlaQ==",
+  "invalidKeyRedirect": "https://discord.gg/ean4jGYajM",
   "validKeys": [
     "HOSSAME",
     ""
@@ -16,7 +16,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": false,
-  "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
+  "redirectUrl": "https://discord.gg/ean4jGYajM",
   "socialButtons": [
     {
       "type": "discord",
