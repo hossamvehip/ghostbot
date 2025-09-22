@@ -15,7 +15,7 @@
   "btnColor": "#FF416C",
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
-  "autoRedirect": true,
+  "autoRedirect": false,
   "redirectUrl": "https://www.instagram.com/stories/ghostxmods/3726825017389662012?utm_source=ig_story_item_share&igsh=MWh6MGZheDU3MDM1MQ==",
   "socialButtons": [
     {
