@@ -4,7 +4,7 @@
   "loginTitle": "Version : 14.0.2",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://www.instagram.com/ghostxmods?igsh=Y2gyMGUyMzM0Mm5v",
+  "invalidKeyRedirect": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "validKeys": [
     "HOSSAME",
     ""
@@ -16,7 +16,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": false,
-  "redirectUrl": "https://www.instagram.com/stories/ghostxmods/3726825017389662012?utm_source=ig_story_item_share&igsh=MWh6MGZheDU3MDM1MQ==",
+  "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "socialButtons": [
     {
       "type": "discord",
