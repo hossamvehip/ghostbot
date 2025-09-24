@@ -4,7 +4,7 @@
   "loginTitle": "Version : v1",
   "loginHint": "Enter your premium key",
   "loginButtonText": "Login",
-  "invalidKeyRedirect": "https://linkjust.com/BdryWmd82",
+  "invalidKeyRedirect": "https://www.instagram.com/p/DOmCZ1kCL4Q/?igsh=MTc4OWtha2EyN2xxeQ==",
   "validKeys": [
     ""
   ],
@@ -15,7 +15,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": true,
-  "redirectUrl": "https://linkjust.com/BdryWmd82",
+  "redirectUrl": "https://www.instagram.com/p/DOmCZ1kCL4Q/?igsh=MTc4OWtha2EyN2xxeQ==",
   "socialButtons": [
     {
       "type": "discord",
