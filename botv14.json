@@ -4,7 +4,7 @@
   "loginTitle": "Version : v14",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://linkjust.com/pY3DpsNbWY",
+  "invalidKeyRedirect": "https://www.instagram.com/ghost.auth",
   "validKeys": [
     "",
     ""
@@ -16,7 +16,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": true,
-  "redirectUrl": "https://linkjust.com/pY3DpsNbWY",
+  "redirectUrl": "https://www.instagram.com/ghost.auth",
   "socialButtons": [
     {
       "type": "discord",
