@@ -15,7 +15,7 @@
   "btnColor": "#FF416C",
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
-  "autoRedirect": false,
+  "autoRedirect": true,
   "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "socialButtons": [
     {
