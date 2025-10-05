@@ -4,9 +4,9 @@
   "loginTitle": "Version: 1",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://www.instagram.com/reel/DOyTF-MiB-m/?igsh=MWdpanQ0bXA2cnFlaQ==",
+  "invalidKeyRedirect": "https://discord.gg/FH9EYeazP6",
   "validKeys": [
-    "auth",
+    "",
     ""
   ],
   "appIcon": "V1",
