@@ -4,7 +4,7 @@
   "loginTitle": "Version : v2",
   "loginHint": "Enter your premium key",
   "loginButtonText": "Login",
-  "invalidKeyRedirect": "https://linkjust.com/Z8igYavxJ",
+  "invalidKeyRedirect": "https://linkjust.com/1EDaia",
   "validKeys": [
     "free"
   ],
@@ -15,7 +15,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": true,
-  "redirectUrl": "https://linkjust.com/Z8igYavxJ",
+  "redirectUrl": "https://linkjust.com/1EDaia",
   "socialButtons": [
     {
       "type": "discord",
