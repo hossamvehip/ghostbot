@@ -4,7 +4,7 @@
   "loginTitle": "Version : 15",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
+  "invalidKeyRedirect": "https://www.instagram.com/p/DP-Ev9siBKK/?igsh=MTVhMW53c2Nvams1eA==",
   "validKeys": [
     "ghostauth",
     ""
