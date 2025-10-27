@@ -1,12 +1,12 @@
 {
-  "enableLogin": false,
+  "enableLogin": true,
   "loginIcon": "GHOST BOT x",
   "loginTitle": "Version : 15",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://www.instagram.com/p/DP-Ev9siBKK/?igsh=MTVhMW53c2Nvams1eA==",
+  "invalidKeyRedirect": "https://www.instagram.com/p/DQTFKbIjM_S/?igsh=MXdiY2EwMnk4czBpZg==",
   "validKeys": [
-    "ghostauth",
+    "",
     ""
   ],
   "appIcon": "V15",
@@ -28,13 +28,13 @@
     }
   ],
   "versionInfo": {
-    "latestVersion": "15.0.0",
+    "latestVersion": "16.0.0",
     "title": "📢 إعلان رسمي | Official Announcement 🚀",
-    "message": "🔧 البوت حالياً تحت الصيانة\n⏳ موعد انتهاء الصيانة يوم الثلاثاء القادم: 16/09/2025\n\nتابعوني على حسابي الرسمي في إنستغرام لمزيد من التحديثات 👇\n👉 Instagram: ghost.auth\n\n🔧 The bot is currently under maintenance\n⏳ Maintenance will end on Tuesday: 16/09/2025\n\nFollow me on my official Instagram for updates 👇\n👉 Instagram: ghost.auth",
-    "downloadUrl": "https://www.instagram.com/stories/ghost.auth/3721673253124108838?utm_source=ig_story_item_share&igsh=MTI5b2RvOHNpanBoMA==",
+    "message": "⚠️ تم إغلاق جميع الإصدارات السابقة بما فيها Ghost Bot X 15\n\n🗓️ تحديث Free Fire القادم سيكون بتاريخ 29 أكتوبر 2025 (بتوقيت GMT+5:30)\n⏰ لم يتبقَّ سوى يومان و10 ساعات و3 دقائق\n\n💥 انتظروا الإصدار الجديد 🔥\n🚀 Ghoαt Bot X 16 قادم قريباً!\n\n📱 تابعونا على حسابنا الرسمي في إنستغرام لمزيد من التفاصيل:\n👉 Instagram: ghost.auth\n\n⚠️ All previous versions have been closed, including Ghost Bot X 15.\n🗓️ The next Free Fire update will be on October 29, 2025 (GMT+5:30)\n⏰ Only 2 days, 10 hours, and 3 minutes left!\n\n💥 Stay tuned for the new release 🔥\n🚀 Ghoαt Bot X 16 is coming soon!\n\n👉 Follow us on Instagram for updates:\n📱 Instagram: ghost.auth",
+    "downloadUrl": "https://www.instagram.com/p/DQTFKbIjM_S/?igsh=MXdiY2EwMnk4czBpZg==",
     "forceUpdate": true,
     "showDiscordButton": true,
-    "downloadButtonText": "Click here/ اضغط هنا!",
+    "downloadButtonText": "انتظر الإصدار القادم / Coming Soon!",
     "discordButtonText": "Get Support",
     "laterButtonText": "Remind Me Later"
   }
