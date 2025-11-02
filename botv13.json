@@ -4,7 +4,7 @@
   "loginTitle": "Version : v13",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://youtu.be/Suzn-dWFq1c?feature=shared",
+  "invalidKeyRedirect": "https://youtu.be/JTIEARt2BZk?si=mR1UkDgaCF-fFFbJ",
   "validKeys": [
     "ghost"
   ],
@@ -30,7 +30,7 @@
     "latestVersion": "12.0.0",
     "title": "Update Available",
     "message": "All peoples using new updated version now. Problem of (Network Error) and sudden app closing is fixed. Please update for smooth using.",
-    "downloadUrl": "https://www.mediafire.com/file/puot2qk09eofh75/Ghost+bot+v12+fix_signed.apk/file",
+    "downloadUrl": "https://youtu.be/JTIEARt2BZk?si=mR1UkDgaCF-fFFbJ",
     "forceUpdate": false,
     "showDiscordButton": true,
     "downloadButtonText": "Download Now",
