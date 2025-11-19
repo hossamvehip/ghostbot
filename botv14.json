@@ -1,5 +1,5 @@
 {
-  "enableLogin": true,
+  "enableLogin": false,
   "loginIcon": "قم با تحميل اصدار جديد /  Download a new version",
   "loginTitle": "Version : v14",
   "loginHint": "Enter your premium key",
@@ -16,7 +16,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": true,
-  "redirectUrl": "https://youtu.be/JTIEARt2BZk?si=owDqU4FLxlJvlT2B",
+  "redirectUrl": "https://ghostfree.free.bg/",
   "socialButtons": [
     {
       "type": "discord",
