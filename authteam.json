@@ -1,5 +1,5 @@
 {
-  "enableLogin": false,
+  "enableLogin": true,
   "loginIcon": "Auth Team",
   "loginTitle": "Version: 1",
   "loginHint": "Enter your premium key",
