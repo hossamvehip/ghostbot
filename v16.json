@@ -1,6 +1,41 @@
 {
-    "redirect_url": "https://ghost-key.vercel.app/power/complete",
-    "message": "Invalid activation key detected",
-    "version": "v16",
-    "timestamp": "2024"
+  "enableLogin": false,
+  "loginIcon": "GHOST BOT x",
+  "loginTitle": "Version : 15",
+  "loginHint": "Enter your premium key",
+  "loginButtonText": "login !!",
+  "invalidKeyRedirect": "https://youtu.be/JTIEARt2BZk?si=IGJKHnqfT-JQLjmD",
+  "validKeys": [
+    "",
+    ""
+  ],
+  "appIcon": "V15",
+  "bgColor": "#121212",
+  "accentColor": "#4FC3F7",
+  "btnColor": "#FF416C",
+  "btnTextColor": "#FFFFFF",
+  "continueText": "CONTINUE",
+  "autoRedirect": true,
+  "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
+  "socialButtons": [
+    {
+      "type": "discord",
+      "url": "https://discord.gg/ean4jGYajM"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh"
+    }
+  ],
+  "versionInfo": {
+    "latestVersion": "16.0.0",
+    "title": "📢 إعلان رسمي | Official Announcement 🚀",
+    "message": "⚠️ تم إغلاق جميع الإصدارات السابقة بما فيها Ghost Bot X 15\n\n🗓️ تحديث Free Fire القادم سيكون بتاريخ 29 أكتوبر 2025 (بتوقيت GMT+5:30)\n⏰ لم يتبقَّ سوى يومان و10 ساعات و3 دقائق\n\n💥 انتظروا الإصدار الجديد 🔥\n🚀 Ghoαt Bot X 16 قادم قريباً!\n\n📱 تابعونا على حسابنا الرسمي في إنستغرام لمزيد من التفاصيل:\n👉 Instagram: ghost.auth\n\n⚠️ All previous versions have been closed, including Ghost Bot X 15.\n🗓️ The next Free Fire update will be on October 29, 2025 (GMT+5:30)\n⏰ Only 2 days, 10 hours, and 3 minutes left!\n\n💥 Stay tuned for the new release 🔥\n🚀 Ghoαt Bot X 16 is coming soon!\n\n👉 Follow us on Instagram for updates:\n📱 Instagram: ghost.auth",
+    "downloadUrl": "https://youtu.be/JTIEARt2BZk?si=mR1UkDgaCF-fFFbJ",
+    "forceUpdate": true,
+    "showDiscordButton": true,
+    "downloadButtonText": "انتظر الإصدار القادم / Coming Soon!",
+    "discordButtonText": "Get Support",
+    "laterButtonText": "Remind Me Later"
+  }
 }
