@@ -4,7 +4,7 @@
   "loginTitle": "Version: 1",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "404.com",
+  "invalidKeyRedirect": "https://www.youtube.com/@auth.community",
   "validKeys": [
     "ob51",
     ""
