@@ -5,8 +5,8 @@
   "btnColor": "#667eea",
   "btnTextColor": "#FFFFFF",
   "continueText": "START",
-  "autoRedirect": false,
-  "redirectUrl": "",
+  "autoRedirect": true,
+  "redirectUrl": "https://youtu.be/TiXDyNA2mis?si=QZqmwEDCXHqnPTHh",
   
   "versionInfo": {
     "latestVersion": "1.0.0",
