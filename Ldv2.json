@@ -4,7 +4,7 @@
   "loginTitle": "Version : v2",
   "loginHint": "Enter your premium key",
   "loginButtonText": "Login",
-  "invalidKeyRedirect": "https://youtu.be/TiXDyNA2mis?si=c4rkeLteF-jvdUB7",
+  "invalidKeyRedirect": "",
   "validKeys": [
     ""
   ],
