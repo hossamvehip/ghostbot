@@ -4,7 +4,7 @@
   "loginTitle": "Version : 15",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://youtu.be/TiXDyNA2mis?si=c4rkeLteF-jvdUB7",
+  "invalidKeyRedirect": "https://youtu.be/wxZbrxdD4po?si=VrmsFWjjgF2y84Kw",
   "validKeys": [
     "",
     ""
@@ -16,7 +16,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": true,
-  "redirectUrl": "https://ghostfree.free.bg/",
+  "redirectUrl": "https://youtu.be/wxZbrxdD4po?si=VrmsFWjjgF2y84Kw",
   "socialButtons": [
     {
       "type": "discord",
