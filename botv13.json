@@ -4,7 +4,7 @@
   "loginTitle": "Version : v13",
   "loginHint": "Enter your premium key",
   "loginButtonText": "login !!",
-  "invalidKeyRedirect": "https://youtu.be/TiXDyNA2mis?si=c4rkeLteF-jvdUB7",
+  "invalidKeyRedirect": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "validKeys": [
     "ghost"
   ],
@@ -15,7 +15,7 @@
   "btnTextColor": "#FFFFFF",
   "continueText": "CONTINUE",
   "autoRedirect": true,
-  "redirectUrl": "https://ghostfree.free.bg/",
+  "redirectUrl": "https://www.instagram.com/ghost.auth?igsh=aTgyMGwwYW53dzJh",
   "socialButtons": [
     {
       "type": "discord",
